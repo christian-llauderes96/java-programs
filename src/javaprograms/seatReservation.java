@@ -67,6 +67,7 @@ public class seatReservation {
             for(int j=0; j<4; j++){
                 System.out.print(arr[i][j]+"\t");
             }
+           
             System.out.println("");
         }
     }
