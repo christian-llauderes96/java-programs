@@ -12,7 +12,7 @@ public class Sample1 implements ActionListener{
     public static void main(String[] args) {
         
         
-        JFrame frame = new JFrame("PE3-Andres");  
+        JFrame frame = new JFrame("Llauderes Java-GUI");  
         JPanel panel = new JPanel();  
         panel.setLayout(new FlowLayout());  
         label1 = new JLabel("Welcome to GUI Components!"); 
