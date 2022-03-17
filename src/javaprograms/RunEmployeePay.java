@@ -25,7 +25,6 @@ public class RunEmployeePay{
             System.out.print("F - Full time\nP - Part time\nOption: ");
             String pick = in.nextLine();
             char choice = Character.toLowerCase(pick.charAt(0));
-
             switch (choice) {
                 case 'f':
                     System.out.print("Enter your Monthly Salary: ");
